@@ -46,7 +46,7 @@
     max-height: 600px;
 }
 
-.rowposter:: ::-webkit-scrollbar
+.rowposter::-webkit-scrollbar
 {
     display: none;
 }
