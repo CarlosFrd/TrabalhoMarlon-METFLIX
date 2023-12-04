@@ -1,3 +1,7 @@
+* { 
+    scrollbar-width: thin;
+}
+
 .carousel-inner
 {
     height: 700px;
@@ -46,7 +50,7 @@
     max-height: 600px;
 }
 
-.rowposter::-webkit-scrollbar
+.rowposter:: ::-webkit-scrollbar
 {
     display: none;
 }
